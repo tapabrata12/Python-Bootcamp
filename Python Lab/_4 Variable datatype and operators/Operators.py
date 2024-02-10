@@ -1,6 +1,6 @@
 """
-Operators are a kind of entity that operators one or more than one operand and produces a complete different or
-may be same answers
+Operators are an entity / spacial sign that operates one or more than one operand and produces a complete different or
+may be same answer
 
 We have several kinds of operators like,
 """
@@ -59,7 +59,7 @@ print(a)
 a %= b  # a=a%b
 print(a)
 
-# Here it will give an error, but it is part if assignment operator
+# Here it will give an error, but it is also a part of assignment operator
 # a &= b  # a=a&b
 # print(a)
 # a |= b  # a=a|b
